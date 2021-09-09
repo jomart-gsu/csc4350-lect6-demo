@@ -9,9 +9,9 @@ It also shows how you can store and hide your API keys with a `.env` file and `.
 
 ## Setup
 1. Create `.env` file in your main directory
-2. Add your NYT key from https://developer.nytimes.com/my-apps with the line: `export NYT_KEY='YOUR_KEY'`
+2. Add your NYT key from https://developer.nytimes.com/my-apps with the line: `export API_KEY='YOUR_KEY'`
 
 ## Run Application
-1. Run command in terminal `python lect5-demo.py`
-2. See output with list of Gamestop articles 
+1. Run command in terminal `python3 lect6-demo.py`
+2. See output with list of election articles 
 
