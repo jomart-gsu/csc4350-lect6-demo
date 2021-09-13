@@ -4,6 +4,10 @@ from dotenv import find_dotenv, load_dotenv
 
 load_dotenv(find_dotenv())
 
+
+
+
+
 BASE_URL = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
 API_KEY = os.getenv("API_KEY")
 params = {
